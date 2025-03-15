@@ -1,5 +1,4 @@
-# Credit-Card-Fraud-Detection
-It's a Credit Card Detection Project using Machine Learning 
+# Credit-Card-Fraud-Detection 
 Building a machine learning model to detect credit card fraud enhances security by identifying suspicious
 transactions that deviate from typical spending patterns.
 • Define the problem by clearly articulating the issue at hand, ensuring all aspects are thoroughly analyzed and
